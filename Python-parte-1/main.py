@@ -73,4 +73,4 @@ print(type(valor))
 
 #buena Práctica: Ponerle a las variables nombres representativos de lo que están guardando
 numero_entero = 4
-numero_flotante = 3
+numero_flotante = 3.0
